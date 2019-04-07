@@ -9,7 +9,7 @@
 
 > Código desenvolvido por Alan Ricardo de Pedro para um desafio de ReactJS + Redux + WebPack.
 
-> O desafio propõem receber um número inteiro e determinar quantos pontos existem em um pentágono.
+> O desafio propõe receber um número inteiro e determinar quantos pontos existem em um pentágono.
 
 > A solução  calcula a quantidade de pontos a partir de qualquer número.
 
