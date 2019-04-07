@@ -1,0 +1,55 @@
+$primaryBgColor: #fff;
+$mutedColor: rgb(49, 49, 49);
+
+.app {
+    h1, p {
+        margin-bottom: 20px;
+    }
+
+    p {
+        color: $mutedColor;
+        font-style: italic;
+        text-decoration: underline;
+    }
+}
+
+.result {
+    h1 {
+        margin: 40px 0;
+        font-weight: bold;
+        font-size: 50px;
+    }
+
+    button {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+}
+
+.shape {
+    h1 {
+        margin-bottom: 40px;
+    }
+   
+    h2 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .pentagon {
+        margin: 0 auto;
+        width: 400px;
+        height: 400px;
+    }
+    
+    svg {
+        width: 400px;
+        height: 400px;
+        margin: 0 auto;
+    }
+}
+
+.container {
+    text-align: center;
+    background-color: $primaryBgColor;
+}

@@ -1,0 +1,1 @@
+export const APP_NAME = "Desafio Técnico || Vulpi+Celebryts :: Alan Ricardo de Pedro"
